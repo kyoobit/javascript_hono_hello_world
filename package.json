@@ -1,11 +1,11 @@
 {
-  "name": "javascript-hono-hello-world",
+  "name": "javascript_hono_hello_world",
   "scripts": {
     "dev": "wrangler dev",
     "deploy": "wrangler deploy --minify"
   },
   "dependencies": {
-    "hono": "^4.12.5"
+    "hono": "^4.12.8"
   },
   "devDependencies": {
     "@cloudflare/workers-types": "^4.20241022.0",
